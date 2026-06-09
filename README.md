@@ -3,11 +3,11 @@
 ## Aspiring Full-Stack Developer & AI Builder | Turning Ideas Into Impact
 
 ## 📌 About Me:
- Computer Science Engineering Student with Majors in AI/ML<br>
- Passionate about AI, Full-Stack Development, and Building Real-World Solutions<br>
- Currently working with AI/ML, Deep Learning, Python, DSA, TypeScript, React<br>
- Aspiring to build impactful software that solves real problems<br>
- Open for collaborating on interesting projects 🤝
+ - Computer Science Engineering Student with Majors in AI/ML<br>
+ - Passionate about AI, Full-Stack Development, and Building Real-World Solutions<br>
+ - Currently working with AI/ML, Deep Learning, Python, DSA, TypeScript, React<br>
+ - Aspiring to build impactful software that solves real problems<br>
+ - Open for collaborating on interesting projects 🤝
 
 ## 🔥 Featured Projects:
 - **[SeatSathi](https://github.com/shreeyadav06/SeatSathi-)** — AI-powered Admission Counselor for KCET built with React & TypeScript
