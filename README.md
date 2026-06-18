@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreeyadav06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreeyadav06&theme=dark)](https://git.io/streak-stats)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyadav06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 💬 Quote of the Day:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
