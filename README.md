@@ -28,3 +28,7 @@
 
 ## 💬 Quote of the Day:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreeyadav06&color=blue&style=flat-square&label=PROFILE+VIEWS)
