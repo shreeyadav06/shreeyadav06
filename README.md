@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shreeyadav06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/><br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreeyadav06&theme=dark&v=1)](https://git.io/streak-stats)<br/><br/>
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreeyadav06&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area_true=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/><br/>
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeyadav06&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/><br/>
 
 
 ## 💬 Quote of the Day:
