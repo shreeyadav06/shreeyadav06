@@ -29,7 +29,7 @@
 ###  GitHub Trophies
 [![trophy](./assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
-###  Isometric Commit Calendar
+###  Commit Calendar
 <img src="./assets/isometric-calendar.svg" alt="Isometric Commit Calendar" width="100%"/>
 
 
