@@ -27,11 +27,10 @@
 <!-- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=shreeyadav06&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/><br/> -->
 
 ###  GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreeyadav06&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###  Isometric Commit Calendar
 <img src="./assets/isometric-calendar.svg" alt="Isometric Commit Calendar" width="100%"/>
-
 
 
 ##  Quote of the Day:
