@@ -26,10 +26,11 @@
 [![GitHub Streak](./assets/streak-stats.svg)](https://git.io/streak-stats)<br/><br/>
 <!-- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=shreeyadav06&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/><br/> -->
 
+###  GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreeyadav06&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###  Isometric Commit Calendar
 <img src="./assets/isometric-calendar.svg" alt="Isometric Commit Calendar" width="100%"/>
-
-<!-- GitHub Trophies is currently unavailable due to API rate limits (402 Error on their public instance) -->
 
 
 
