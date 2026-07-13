@@ -24,7 +24,7 @@
 <!-- 
 [](https://github-stats-extended.vercel.app/api?username=shreeyadav06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/> -->
 ##  GitHub Stats:
-[![GitHub Streak](./assets/streak-stats.svg)](https://git.io/streak-stats)<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreeyadav06&theme=dark)](https://git.io/streak-stats)<br/><br/>
 <!-- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=shreeyadav06&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/><br/> -->
 
 ###  GitHub Trophies
