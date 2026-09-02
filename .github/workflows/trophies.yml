@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate Trophies
-        uses: ryo-ma/github-profile-trophy@v2.0.0
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: shreeyadav06
           token: ${{ secrets.PAT_TOKEN }}
